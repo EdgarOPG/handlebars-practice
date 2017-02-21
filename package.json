@@ -1,23 +1,17 @@
 {
-  "name": "hello-word-handlebars",
-  "version": "1.0.0",
-  "description": "Practica de motores de templates",
-  "main": "index.js",
+  "name": "express-handlebars-basic-example",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EdgarOPG/template-engine-practice.git"
-  },
-  "keywords": [
-    "template",
-    "engine"
-  ],
-  "author": "Edgar Peinado",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EdgarOPG/template-engine-practice/issues"
-  },
-  "homepage": "https://github.com/EdgarOPG/template-engine-practice#readme"
+  "author": "Eric Ferraiuolo <eferraiuolo@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.7.2",
+    "express-handlebars": "^3.0.0"
+  }
 }
