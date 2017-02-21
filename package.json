@@ -1,0 +1,23 @@
+{
+  "name": "hello-word-handlebars",
+  "version": "1.0.0",
+  "description": "Practica de motores de templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarOPG/template-engine-practice.git"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "Edgar Peinado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgarOPG/template-engine-practice/issues"
+  },
+  "homepage": "https://github.com/EdgarOPG/template-engine-practice#readme"
+}
